@@ -7,15 +7,15 @@ title: Terms of Service
 _Effective: **2026-07-23**_
 _Last updated: 2026-07-23_
 
-These Terms of Service ("Terms") are a legal agreement between you and **Mindcom Media Ltd** ("we", "us", "our") governing your use of the **Frontier** iOS application ("the App"). Please read them carefully.
+These Terms of Service ("Terms") are a legal agreement between you and **Mindcom Media Ltd** ("we", "us", "our") governing your use of the **Frontier Voice** iOS application ("the App"). Please read them carefully.
 
 By downloading or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
 ---
 
-## 1. About Frontier
+## 1. About Frontier Voice
 
-Frontier is an AI-powered voice and chat assistant app for iOS, developed by Mindcom Media Ltd, a company incorporated in England and Wales.
+Frontier Voice is an AI-powered voice and chat assistant app for iOS, developed by Mindcom Media Ltd, a company incorporated in England and Wales.
 
 ---
 
@@ -46,7 +46,7 @@ You must be at least 13 years old (or 16 in the EU/UK) to use the App. By using 
 
 ## 4. Acceptable Use
 
-You agree to use Frontier only for lawful purposes and in accordance with these Terms. You must **not**:
+You agree to use Frontier Voice only for lawful purposes and in accordance with these Terms. You must **not**:
 
 ### 4.1 Illegal or Harmful Content
 - Use the App to generate, transmit, or store illegal content.
@@ -54,12 +54,12 @@ You agree to use Frontier only for lawful purposes and in accordance with these 
 - Use the App to harass, abuse, threaten, defame, or harm any person.
 
 ### 4.2 Misuse of AI Systems
-- Attempt to bypass, jailbreak, or circumvent the safety measures or content policies of Frontier or any underlying AI model.
+- Attempt to bypass, jailbreak, or circumvent the safety measures or content policies of Frontier Voice or any underlying AI model.
 - Deliberately attempt to extract training data, model weights, or proprietary system prompts.
 - Use the App to impersonate any person, organisation, or official body in a misleading or deceptive way.
 
 ### 4.3 Safety-Critical Use
-- Do **not** use Frontier in safety-critical contexts where an error or inaccuracy could cause death, injury, or serious harm — including but not limited to: operating vehicles, aircraft, or heavy machinery; emergency medical response; or safety-critical infrastructure.
+- Do **not** use Frontier Voice in safety-critical contexts where an error or inaccuracy could cause death, injury, or serious harm — including but not limited to: operating vehicles, aircraft, or heavy machinery; emergency medical response; or safety-critical infrastructure.
 
 ### 4.4 Technical Abuse
 - Do not use automated means to access or abuse the App in ways that exceed normal personal use.
@@ -70,16 +70,16 @@ You agree to use Frontier only for lawful purposes and in accordance with these 
 ## 5. AI Outputs — Important Disclaimers
 
 ### 5.1 Outputs May Be Inaccurate
-The AI models used by Frontier can generate responses that are inaccurate, incomplete, outdated, biased, or entirely fabricated ("hallucinations"). This is an inherent characteristic of current AI technology.
+The AI models used by Frontier Voice can generate responses that are inaccurate, incomplete, outdated, biased, or entirely fabricated ("hallucinations"). This is an inherent characteristic of current AI technology.
 
 ### 5.2 Not Professional Advice
-Outputs from Frontier are **not** legal, financial, medical, psychological, safety, or other professional advice. Do not rely on AI-generated content as a substitute for qualified professional consultation. Always verify important information from authoritative sources.
+Outputs from Frontier Voice are **not** legal, financial, medical, psychological, safety, or other professional advice. Do not rely on AI-generated content as a substitute for qualified professional consultation. Always verify important information from authoritative sources.
 
 ### 5.3 Your Responsibility
 You are responsible for evaluating and verifying any AI outputs before acting on them. Mindcom Media Ltd accepts no liability for decisions you make based on AI-generated content.
 
 ### 5.4 Web Search Results
-When Frontier uses Brave Search to retrieve live web content, the accuracy and completeness of results depend on third-party sources. We do not endorse or verify that third-party content.
+When Frontier Voice uses Brave Search to retrieve live web content, the accuracy and completeness of results depend on third-party sources. We do not endorse or verify that third-party content.
 
 ---
 
@@ -89,7 +89,7 @@ When Frontier uses Brave Search to retrieve live web content, the accuracy and c
 You retain all rights to the content you provide to the App (your voice, text, and queries). By using the App, you grant Mindcom Media Ltd a limited licence to process your inputs solely to deliver the service to you.
 
 ### 6.2 The App
-Frontier and all associated software, branding, and content are owned by or licensed to Mindcom Media Ltd. These Terms do not grant you any rights to our intellectual property other than a limited, non-exclusive, non-transferable, revocable licence to use the App for personal, non-commercial purposes.
+Frontier Voice and all associated software, branding, and content are owned by or licensed to Mindcom Media Ltd. These Terms do not grant you any rights to our intellectual property other than a limited, non-exclusive, non-transferable, revocable licence to use the App for personal, non-commercial purposes.
 
 ### 6.3 AI-Generated Outputs
 AI outputs are provided to you for your use. We make no warranty as to their originality or that they do not infringe third-party rights. You are responsible for how you use AI-generated content.
@@ -140,7 +140,7 @@ Where we are found liable, our total liability to you shall not exceed the great
 ## 11. Termination
 
 ### 11.1 By You
-You may stop using Frontier at any time by deleting the App. Tapping **"Delete account"** within the App will wipe all locally stored data from your device.
+You may stop using Frontier Voice at any time by deleting the App. Tapping **"Delete account"** within the App will wipe all locally stored data from your device.
 
 ### 11.2 By Us
 We may suspend or restrict your access to the App if you breach these Terms, if we are required to by law, or if continued provision would expose us or others to harm. Where practical, we will give you notice.

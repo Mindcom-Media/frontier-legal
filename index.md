@@ -1,11 +1,11 @@
 ---
-title: Frontier — Legal & Support
-description: Privacy Policy, Terms of Service & Support for Frontier by Mindcom Media Ltd
+title: Frontier Voice — Legal & Support
+description: Privacy Policy, Terms of Service & Support for Frontier Voice by Mindcom Media Ltd
 ---
 
-# Frontier
+# Frontier Voice
 
-Legal and support pages for **Frontier**, an iOS app by **Mindcom Media Ltd**.
+Legal and support pages for **Frontier Voice**, an iOS app by **Mindcom Media Ltd**.
 
 - [Privacy Policy]({{ '/privacy' | relative_url }})
 - [Terms of Service]({{ '/terms' | relative_url }})

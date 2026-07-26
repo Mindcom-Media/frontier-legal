@@ -1,11 +1,11 @@
 ---
 title: Support
-description: Support and contact for Frontier by Mindcom Media Ltd
+description: Support and contact for Frontier Voice by Mindcom Media Ltd
 ---
 
-# Frontier Support
+# Frontier Voice Support
 
-Need help with **Frontier**? We're happy to assist.
+Need help with **Frontier Voice**? We're happy to assist.
 
 ## Contact us
 
@@ -20,7 +20,7 @@ include your iOS version and a short description of what happened.
 
 ### The call won't connect or the AI doesn't respond
 Check that you have a working internet connection and that you've granted
-microphone access (**iOS Settings → Frontier → Microphone**). Fully close the
+microphone access (**iOS Settings → Frontier Voice → Microphone**). Fully close the
 app and reopen it, then try again.
 
 ### How do I change the voice or the AI model?
@@ -49,5 +49,5 @@ through Apple at **[reportaproblem.apple.com](https://reportaproblem.apple.com)*
 
 ---
 
-Frontier is developed by **Mindcom Media Ltd**. Contact: Tim O'Shea —
+Frontier Voice is developed by **Mindcom Media Ltd**. Contact: Tim O'Shea —
 [hello@getunlocked.ai](mailto:hello@getunlocked.ai).

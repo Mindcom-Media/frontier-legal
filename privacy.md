@@ -7,13 +7,13 @@ title: Privacy Policy
 _Effective: **2026-07-23**_
 _Last updated: 2026-07-23_
 
-This Privacy Policy explains how **Mindcom Media Ltd** ("we", "us", "our") collects, uses, and protects your information when you use **Frontier**, our iOS application.
+This Privacy Policy explains how **Mindcom Media Ltd** ("we", "us", "our") collects, uses, and protects your information when you use **Frontier Voice**, our iOS application.
 
 ---
 
 ## 1. Who We Are
 
-Frontier is developed and operated by **Mindcom Media Ltd**, a company incorporated in England and Wales. We are the **data controller** for the purposes of the UK GDPR and EU GDPR.
+Frontier Voice is developed and operated by **Mindcom Media Ltd**, a company incorporated in England and Wales. We are the **data controller** for the purposes of the UK GDPR and EU GDPR.
 
 Registered office: Holly Cottage, Pond Road, Bradfield, Norfolk, UK
 Contact: Tim O'Shea — hello@getunlocked.ai
@@ -51,7 +51,7 @@ Our product analytics (PostHog — see Section 4.9) use a **first-party, pseudon
 
 ## 4. Third-Party Services and Data Processors
 
-Frontier routes voice and text data through the following third-party services to deliver its functionality. These providers act as **data processors** on our behalf.
+Frontier Voice routes voice and text data through the following third-party services to deliver its functionality. These providers act as **data processors** on our behalf.
 
 ### 4.1 LiveKit (LiveKit Inc., USA)
 - **What it does:** Manages real-time voice sessions (audio streaming, speech-to-text, text-to-speech, and AI model routing).
@@ -112,7 +112,7 @@ The following components run inside the LiveKit-hosted agent session to make voi
 
 We use your data solely to:
 
-1. Provide the core functionality of Frontier (voice and text AI conversations).
+1. Provide the core functionality of Frontier Voice (voice and text AI conversations).
 2. Maintain your conversation history and preferences on your device.
 3. Route requests to the AI providers needed to respond to you.
 4. Comply with legal obligations.
@@ -218,7 +218,7 @@ You may designate an authorised agent to submit a request on your behalf. We wil
 
 ## 11. Children's Privacy
 
-Frontier is not directed at children under 13 (or under 16 in the EU/UK). We do not knowingly collect personal information from children. If you believe a child has provided us with information, please contact us so we can take appropriate action.
+Frontier Voice is not directed at children under 13 (or under 16 in the EU/UK). We do not knowingly collect personal information from children. If you believe a child has provided us with information, please contact us so we can take appropriate action.
 
 ---
 
