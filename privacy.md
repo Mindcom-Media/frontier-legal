@@ -4,8 +4,8 @@ title: Privacy Policy
 
 # Privacy Policy
 
-_Effective: **2026-07-23**_
-_Last updated: 2026-07-23_
+_Effective: **2026-08-04**_
+_Last updated: 2026-08-04_
 
 This Privacy Policy explains how **Mindcom Media Ltd** ("we", "us", "our") collects, uses, and protects your information when you use **Frontier Voice**, our iOS application.
 
@@ -52,6 +52,10 @@ Our product analytics (PostHog — see Section 4.9) use a **first-party, pseudon
 ## 4. Third-Party Services and Data Processors
 
 Frontier Voice routes voice and text data through the following third-party services to deliver its functionality. These providers act as **data processors** on our behalf.
+
+### 4.0 Your Permission Comes First
+
+Before Frontier Voice sends anything to the AI services listed below, the app shows you an in-app screen — **"Before you start talking"** — that names the data being sent (your microphone audio and the conversation transcript) and every company that receives it. Voice calls are disabled until you tap **"Agree and continue"**. You can re-read that disclosure, and withdraw your permission, at any time under **Settings → AI processing & your data**. Withdrawing permission stops all further processing by disabling voice calls.
 
 ### 4.1 LiveKit (LiveKit Inc., USA)
 - **What it does:** Manages real-time voice sessions (audio streaming, speech-to-text, text-to-speech, and AI model routing).
@@ -169,7 +173,7 @@ Because we hold no personal data on our own servers, most rights can be exercise
 | **Data portability** | Your transcripts are stored on your device and accessible to you directly |
 | **Objection** | Object to processing; noting this may prevent use of the service |
 | **Restriction** | Request we restrict processing in certain circumstances |
-| **Withdraw consent** | Revoke microphone permission in iOS Settings at any time |
+| **Withdraw consent** | Use **Settings → AI processing & your data → Withdraw permission** in the app, and/or revoke microphone permission in iOS Settings, at any time |
 
 To exercise any right, contact: hello@getunlocked.ai
 
